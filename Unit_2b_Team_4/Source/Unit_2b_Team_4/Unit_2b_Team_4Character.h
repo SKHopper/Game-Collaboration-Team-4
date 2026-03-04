@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Character.h"
+#include "MobileLifeform.h"
 #include "Logging/LogMacros.h"
 #include "Unit_2b_Team_4Character.generated.h"
 
@@ -19,7 +19,7 @@ DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);
  *  A basic first person character
  */
 UCLASS(abstract)
-class AUnit_2b_Team_4Character : public ACharacter
+class AUnit_2b_Team_4Character : public AMobileLifeform
 {
 	GENERATED_BODY()
 
