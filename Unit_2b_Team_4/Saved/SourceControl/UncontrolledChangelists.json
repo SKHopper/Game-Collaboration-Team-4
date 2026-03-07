@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AIController_01.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BP_Enemy1.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AI_01BT.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/YQ/NOAMATXSBSR9DCACPZ9L84.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/0F/8WU9N0ZU34QC6704IIJVP4.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/CO/3H0C0V9HZM7N3JHP4VG32S.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/MT/W0SANZOXHMIKDWKWN3BL01.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AITasks/BTTask_BlueprintBase_ChasePlayer.uasset",
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BBD_AI.uasset",
 				"D:/2402187/git/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AI_01BT.uasset",
 				"D:/2402187/git/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AITasks/BTTask_BlueprintBase_Roam.uasset",
 				"D:/2402187/git/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BTTask_BlueprintBase_Roam.uasset",
@@ -13,14 +22,7 @@
 				"D:/2402187/git/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/YQ/NOAMATXSBSR9DCACPZ9L84.uasset",
 				"D:/2402187/git/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/0F/8WU9N0ZU34QC6704IIJVP4.uasset",
 				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AIController.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AIController_01.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BP_Enemy1.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BTTask_BlueprintBase_Roam.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/AI_01BT.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/YQ/NOAMATXSBSR9DCACPZ9L84.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/0F/8WU9N0ZU34QC6704IIJVP4.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/CO/3H0C0V9HZM7N3JHP4VG32S.uasset",
-				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/MT/W0SANZOXHMIKDWKWN3BL01.uasset"
+				"C:/Users/matty/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BTTask_BlueprintBase_Roam.uasset"
 			]
 		}
 	]
