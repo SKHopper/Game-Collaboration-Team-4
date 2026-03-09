@@ -36,7 +36,7 @@ struct FPositionDistance {
 	float distance = 1.0f;
 };
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent), Blueprintable, BlueprintType)
 class UNIT_2B_TEAM_4_API UMazeNavComp : public UActorComponent
 {
 	GENERATED_BODY()
@@ -54,7 +54,7 @@ protected:
 	FIntVector2 myPos;
 
 	UFUNCTION(BlueprintCallable)
-	TArray<FIntVector2> pathfind(FIntVector2& start, FIntVector2& target, float& searchDistance);
+	TArray<FIntVector2> pathfind(FIntVector2 start, FIntVector2 target, float searchDistance);
 
 	UFUNCTION(BlueprintImplementableEvent)
 	bool isBlocked(FIntVector2 point);

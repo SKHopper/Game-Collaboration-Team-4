@@ -24,7 +24,7 @@ void UMazeNavComp::BeginPlay()
 	
 }
 
-TArray<FIntVector2>  UMazeNavComp::pathfind(FIntVector2& start, FIntVector2& target, float& searchDistance) {
+TArray<FIntVector2>  UMazeNavComp::pathfind(FIntVector2 start, FIntVector2 target, float searchDistance) {
 
 	if (FVector2D::Distance({ double(start.X), double(start.Y) }, { double(target.X), double(target.Y) }) > searchDistance) {
 		return {}; 
