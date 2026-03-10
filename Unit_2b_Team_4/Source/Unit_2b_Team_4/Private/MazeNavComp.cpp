@@ -98,7 +98,7 @@ float UMazeNavComp::heuristic(FIntVector2 from, FIntVector2 to)
 {
 	int32 x = FMath::Abs(from.X - to.X);
 	int32 y = FMath::Abs(from.Y - to.Y);
-	return 1.414f * FMath::Min(x, y) + FMath::Abs(x - y);
+	return sqrtTwo * FMath::Min(x, y) + FMath::Abs(x - y);
 }
 
 TArray<FIntVector2> UMazeNavComp::makePath(TMap<FIntVector2, FIntVector2>& previous, FIntVector2& end) {
