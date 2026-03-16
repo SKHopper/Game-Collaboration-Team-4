@@ -73,3 +73,7 @@ Unit_2b_Team_4/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 Unit_2b_Team_4/DerivedDataCache/*
+/Unit_2b_Team_4/Saved
+/Unit_2b_Team_4/Saved/Config
+/Unit_2b_Team_4/Saved/Logs
+/Unit_2b_Team_4/Saved/SourceControl
