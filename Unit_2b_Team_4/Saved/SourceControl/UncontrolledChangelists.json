@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Input/Actions/IA_playtestHints.uasset",
+				"D:/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Input/Actions/IA_trap.uasset",
+				"D:/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Input/Actions/IA_mainMenu.uasset",
+				"D:/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Input/IMC_Default.uasset",
+				"D:/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/skojo/OneDrive/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/Enemies/BP_Enemy1.uasset",
 				"C:/Users/skojo/OneDrive/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/Character/IF_combat.uasset",
 				"C:/Users/skojo/OneDrive/Documents/GitHub/Game-Collaboration-Team-4/Unit_2b_Team_4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
