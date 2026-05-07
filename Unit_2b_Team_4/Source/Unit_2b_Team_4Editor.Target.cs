@@ -8,7 +8,7 @@ public class Unit_2b_Team_4EditorTarget : TargetRules
 	public Unit_2b_Team_4EditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V5;
+		DefaultBuildSettings = BuildSettingsVersion.V6;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;
 		ExtraModuleNames.Add("Unit_2b_Team_4");
 	}

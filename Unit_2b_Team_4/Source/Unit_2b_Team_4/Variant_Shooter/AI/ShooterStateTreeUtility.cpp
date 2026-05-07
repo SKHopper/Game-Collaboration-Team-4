@@ -297,7 +297,8 @@ EStateTreeRunStatus FStateTreeSenseEnemiesTask::EnterState(FStateTreeExecutionCo
 			[WeakContext = Context.MakeWeakExecutionContext()](AActor* SensedActor)
 			{
 				// get the instance data inside the lambda
-				FInstanceDataType* LambdaInstanceData = WeakContext.MakeStrongExecutionContext().GetInstanceDataPtr<FInstanceDataType>();
+				auto StrongContext = WeakContext.MakeStrongExecutionContext();
+				FInstanceDataType* LambdaInstanceData = StrongContext.GetInstanceDataPtr<FInstanceDataType>();
 
 				if (!LambdaInstanceData)
 				{
